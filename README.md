@@ -9,3 +9,5 @@ Customers’ leaving credit cards services would lead bank to loss, so the bank 
 As a Data scientist at Thera bank, we need to come up with a classification model that will help the bank improve its services so that customers do not renounce their credit cards
 
 We need to identify the best possible model that will give the required performance
+
+![codespace](./image.png)
